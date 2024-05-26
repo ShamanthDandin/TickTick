@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+        'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+        sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+        monospace;
+}
+
+i {
+    cursor: pointer;
+}
+
+#customLogo {
+    margin-right: 10px;
+}
+
+.customName {
+    font-size: large;
+    font-weight: 500;
+}
+
+.name {
+    font-size: x-large;
+    font-weight: 500;
+}
+
+body {
+    background-color: slategray;
+}
+
+nav {
+    padding-bottom: 12px;
+}
+
+.navLink {
+    color: white;
+}
+
+.bg-image {
+    background-image: url('./assets/homeimage.jpg');
+    height: 100vh;
+}
+
+.customLabel {
+    font-size: large;
+    font-weight: 400;
+}
+
+.customMargin {
+    margin-left: 57em;
+}
+
+.navName {
+    font-weight: 500;
+}
